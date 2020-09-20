@@ -9,3 +9,8 @@
 **FOGO!**
 
 Aguarde o pressionamento de uma tecla antes de cada transição. 
+
+
+**Como exercultar**
+
+Digite o comando `dotnet run` 
